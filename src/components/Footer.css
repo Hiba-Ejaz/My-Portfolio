@@ -1,0 +1,25 @@
+.FooterLinks{
+    display: flex;
+    justify-content:center;
+    margin: auto;
+    
+}
+.FooterLinks div{
+    padding: 0 3rem;
+}
+#Footer{
+    
+    width: 100%;
+    max-height: 8vh;
+    
+    text-align: center;
+    font-size: 0.7rem;
+    font-weight: 500;
+    color:#fff;
+    background-color:rgb(65,65,65);
+    margin-top: 100px;
+
+    padding-top: 2px;
+    
+
+}

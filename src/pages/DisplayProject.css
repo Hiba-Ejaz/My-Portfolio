@@ -1,0 +1,20 @@
+.project{
+    width:400px;
+    height: 400px;
+    display: Flex;
+    flex-direction:column;
+   padding:3em;
+   margin:auto;
+    text-align: center;
+}
+.project img{
+    
+    height:75%;
+}
+.react-logo img{
+    
+    margin:auto;
+    text-align: center;
+    color:black;
+    
+}

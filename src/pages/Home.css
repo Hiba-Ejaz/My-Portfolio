@@ -1,0 +1,21 @@
+
+.mainHome .section{
+    display: flex;
+    flex-direction: column;
+    transition: box-shadow .15s,transform .15s;
+    
+    margin-top:20vh;
+    justify-content: left;
+    padding: 2em;
+    background-color: beige;
+}
+.highlight{
+    color: steelblue;
+    font-size: 3rem;
+
+}
+.highlight2{
+   background-color: lightgray;
+   color: grey;
+
+}
